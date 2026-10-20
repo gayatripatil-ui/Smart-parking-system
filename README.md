@@ -18,13 +18,13 @@ The Smart Parking System is an Arduino-based project that automates vehicle entr
 - Breadboard
 - USB cable and suitable power supply
 
-🔌 Pin Connections
+## 🔌 Pin Connections
 
-  components             Arduino Pin
-
-Entry IR Sensor    -       D2
-Exit IR Sensor      -      D3
-Servo Motor Signal   -     D9
+| Component | Arduino Pin |
+|---|---|
+| Entry IR Sensor | D2 |
+| Exit IR Sensor | D3 |
+| Servo Motor Signal | D9 |
 
 ## ⚙️ Working Principle
 1. The entry IR sensor detects an incoming vehicle.
@@ -43,6 +43,6 @@ Servo Motor Signal   -     D9
 - Real-time parking status updates.
 
 ## 👩‍💻 Project Information
-Project:Smart Parking System Using Arduino  
-Domain: Embedded Systems and Automation  
-Author:Gayatri Patil
+**Project:** Smart Parking System Using Arduino  
+**Domain:** Embedded Systems and Automation  
+**Author:** Gayatri Patil
