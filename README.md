@@ -42,6 +42,12 @@ The Smart Parking System is an Arduino-based project that automates vehicle entr
 - IoT-based monitoring.
 - Real-time parking status updates.
 
+## 📸 Project Gallery
+Photos of the actual hardware setup and gate operation will be displayed here.
+
+## 🎥 Project Demonstration
+Add the link to your Smart Parking System demonstration video here.
+
 ## 👩‍💻 Project Information
 **Project:** Smart Parking System Using Arduino  
 **Domain:** Embedded Systems and Automation  
